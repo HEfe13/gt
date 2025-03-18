@@ -1,0 +1,50 @@
+body{
+
+}
+
+button{
+    padding: 10px 20px;
+    margin: 50px 10px 30px 10px;
+    background-color: greenyellow;
+    border: dashed 1px;
+    color: blue;
+    border-radius: 10%;
+    font-weight: 80;
+    font-size: 2cm;
+
+}
+button:hover{
+    background-color: rgba(91, 129, 33, 0.49);
+
+}
+.highlight{
+    font-size: 2cm;
+    size: 30px;
+    color: red;
+    text-decoration: underline;
+    position: relative;
+}
+.anotherclass{
+    color: blue;
+}
+.fseven{
+    font-size: 3cm;
+}
+
+#ExampleID{
+    background-color: coral;
+}
+.relative{
+    position: relative;
+
+    left: 50px;
+    right: 50px;
+}
+
+.green{
+    color: green;
+}
+
+.fixed{
+    position: fixed;
+}
